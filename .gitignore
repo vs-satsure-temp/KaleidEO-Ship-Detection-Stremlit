@@ -1,0 +1,10 @@
+# Folders
+*__pycache__*
+
+# torch
+*.pt*
+
+# Images
+*.jpg*
+*.png*
+*.tif*
